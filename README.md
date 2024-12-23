@@ -1,2 +1,2 @@
 # Wiki
-Alle Regeln befinden sich [GitBook](planetmine.gitbook.io/planetmine)
+Alle Regeln befinden sich planetmine.gitbook.io/planetmine
